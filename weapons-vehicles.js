@@ -873,25 +873,25 @@
     "name":"KC-135R FA-18F #1",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/kc135rf18f1.glb"
+    "model": "https://OC135.github.io/test6/kc135fa18f12.glb"
 },
 {
     "name":"KC-135R FA-18F #2",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/kc135rf18f2.glb"
+    "model": "https://OC135.github.io/test6/kc135fa18f22.glb"
 },
 {
     "name":"KC-135R FA-18F #3",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/kc135rf18f3.glb"
+    "model": "https://OC135.github.io/test6/kc135fa18f32.glb"
 },
 {
     "name":"KC-10 FA-18F",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/kc10f18f1.glb"
+    "model": "https://OC135.github.io/test6/kc10fa18f2.glb"
 },
 {
     "name":"nimitz",
@@ -903,19 +903,19 @@
     "name":"KC-135R E-4B",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/kc135e4.glb"
+    "model": "https://OC135.github.io/test6/kc135e41.glb"
 },
 {
     "name":"KC-10 E-4B",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/kc10e4.glb"
+    "model": "https://OC135.github.io/test6/kc10e41.glb"
 },
 {
     "name":"KC-46 E-4B",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/kc46e4.glb"
+    "model": "https://OC135.github.io/test6/kc46e41.glb"
 },
 {
     "name":"Airport Gate#4 level 2",
