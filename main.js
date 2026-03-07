@@ -35,7 +35,7 @@ geofs.aircraft.instance.addParts([{
 }]
 );
     }
-   else if(modelOption=="option5")
+   else if(modelOption=="option3")
     {
     geofs.aircraft.instance.addParts([{
 "name":"pfd9",
