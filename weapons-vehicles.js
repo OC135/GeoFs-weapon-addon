@@ -954,6 +954,36 @@
     "model": "https://OC135.github.io/test6/kb47on.glb"
 },
 {
+    "name":"A-10C AIM-120 #1,2",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/a10caim12012.glb"
+},
+{
+    "name":"A-10C AGM-65 #1,7",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/a10cagm6517.glb"
+},
+{
+    "name":"A-10C AGM-65 #2,6",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/a10cagm6526.glb"
+},
+{
+    "name":"A-10C AGM-65 #3,5",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/a10cagm6535.glb"
+},
+{
+    "name":"A-10C AGM-65 #4",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/a10cagm654.glb"
+},
+{
     "name":"Airport Gate#4 level 2",
      "rotation":[0,0,0],
     "position":[0,0,0],
