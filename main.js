@@ -39,7 +39,7 @@ geofs.aircraft.instance.addParts([{
     {
     geofs.aircraft.instance.addParts([{
 "name":"pfd9",
-"model": "https://OC135.github.io/test6/pf18e5.glb",
+"model": "https://OC135.github.io/test6/pa106.glb",
 "position": [0,0,0],
 "rotation":[0,0,0]
 }]
@@ -211,7 +211,7 @@ listdiv.innerHTML = `
 <br>
  <label><input type="radio" name="option" value="option1"  data-value="1">F-15E pylon</label><br>
   <label><input type="radio" name="option" value="option2"  data-value="2">F-16C pylon</label><br>
-  <label><input type="radio" name="option" value="option3"  data-value="3">A-10C pylon(no)</label><br>
+  <label><input type="radio" name="option" value="option3"  data-value="3">A-10C pylon</label><br>
   <label><input type="radio" name="option" value="option4"  data-value="4">FA-18F pylon</label><br>
   <label><input type="radio" name="option" value="option5"  data-value="5">F-2A pylon</label><br>
     <label><input type="radio" name="option" value="option16"  data-value="16">F-15J pylon</label><br>
