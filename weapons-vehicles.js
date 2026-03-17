@@ -1062,6 +1062,66 @@
     "model": "https://OC135.github.io/test6/a10cf2.glb"
 },
 {
+    "name":"Rafale R.550 #1,10",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/rafaler550110.glb"
+},
+{
+    "name":"Rafale R.550 #2,9",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/rafaler55029.glb"
+},
+{
+    "name":"Rafale R.550 #3,8",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/rafaler55038.glb"
+},
+{
+    "name":"Rafale R.550 #4,7",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/rafaler55047.glb"
+},
+{
+    "name":"Rafale R.550 #5,6",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/rafaler55056.glb"
+},
+{
+    "name":"Rafale MICA IR #1,10",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/rafalemicair110.glb"
+},
+{
+    "name":"Rafale MICA IR #2,9",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/rafalemicair29.glb"
+},
+{
+    "name":"Rafale MICA IR #3,8",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/rafalemicair38.glb"
+},
+{
+    "name":"Rafale MICA IR #4,7",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/rafalemicair47.glb"
+},
+{
+    "name":"Rafale MICA IR #5,6",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/rafalemicair56.glb"
+},
+{
     "name":"Airport Gate#4 level 2",
      "rotation":[0,0,0],
     "position":[0,0,0],
