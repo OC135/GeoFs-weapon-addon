@@ -1170,7 +1170,7 @@
     "model": "https://OC135.github.io/test6/f15cf13.glb"
 },
 {
-    "name":"F-15C fuel tank #1,3",
+    "name":"F-15C fuel tank #2",
      "rotation":[0,0,0],
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/f15cf2.glb"
@@ -1179,13 +1179,13 @@
     "name":"F-15C GBU-12 #1,3",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/f15cgbu1213.glb"
+    "model": "https://OC135.github.io/test6/f15gbu1213.glb"
 },
 {
-    "name":"F-15C GBU-12 #1,3",
+    "name":"F-15C GBU-12 #2",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/f15cgbu122.glb"
+    "model": "https://OC135.github.io/test6/f15gbu122.glb"
 },
 {
     "name":"Airport Gate#4 level 2",
