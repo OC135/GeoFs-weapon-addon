@@ -1164,6 +1164,18 @@
     "model": "https://OC135.github.io/test6/182RGweapon.glb"
 },
 {
+    "name":"F-15C fuel tank #1,3",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f15cf13.glb"
+},
+{
+    "name":"F-15C fuel tank #1,3",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f15cf2.glb"
+},
+{
     "name":"Airport Gate#4 level 2",
      "rotation":[0,0,0],
     "position":[0,0,0],
