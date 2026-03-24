@@ -1386,6 +1386,24 @@
     "model": "https://OC135.github.io/test6/su35kab150023.glb"
 },
 {
+    "name":"VFA-2 Bounty Hounters fuel tank #3",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/ffa18e3vfa2.glb"
+},
+{
+    "name":"VFA-231 Black Lions fuel tank #2,4",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/ffa18e24vfa213.glb"
+},
+{
+    "name":"VFA-231 Black Lions fuel tank #3",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/ffa18e3vfa213.glb"
+},
+{
     "name":"Airport Gate#4 level 2",
      "rotation":[0,0,0],
     "position":[0,0,0],
