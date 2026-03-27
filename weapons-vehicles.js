@@ -1149,13 +1149,13 @@
     "name":"Rafale fuel tank #1,3",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/rafalef13.glb"
+    "model": "https://OC135.github.io/test6/fr13.glb"
 },
 {
     "name":"Rafale fuel tank #2",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/rafalef2.glb"
+    "model": "https://OC135.github.io/test6/fr2.glb"
 },
 {
     "name":"RG182 weapon",
