@@ -2442,6 +2442,12 @@
     "model": "https://OC135.github.io/test6/m20nasmp1.glb"
 },
 {
+    "name":"B-2A Mk.82",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/b2amk821.glb"
+},
+{
     "name":"Airport Gate#4 level 2",
      "rotation":[0,0,0],
     "position":[0,0,0],
