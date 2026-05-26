@@ -2442,10 +2442,250 @@
     "model": "https://OC135.github.io/test6/m20nasmp1.glb"
 },
 {
-    "name":"B-2A Mk.82",
+    "name":"B-2A Mk.82 #1",
      "rotation":[0,0,0],
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/b2amk821.glb"
+},
+{
+    "name":"B-2A Mk.84 #1",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/b2amk841.glb"
+},
+{
+    "name":"B-2A Mk.84 #2",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/b2amk842.glb"
+},
+{
+    "name":"B-2A Mk.84 #3",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/b2amk843.glb"
+},
+{
+    "name":"B-2A Mk.84 #4",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/b2amk844.glb"
+},
+{
+    "name":"B-2A Mk.84 #5",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/b2amk845.glb"
+},
+{
+    "name":"B-2A Mk.84 #6",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/b2amk846.glb"
+},
+{
+    "name":"B-2A Mk.84 #7",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/b2amk847.glb"
+},
+{
+    "name":"B-2A Mk.84 #8",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/b2amk848.glb"
+},
+{
+    "name":"B-2A Mk.84 #9",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/b2amk849.glb"
+},
+{
+    "name":"B-2A Mk.84 #10",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/b2amk8410.glb"
+},
+{
+    "name":"B-2A Mk.84 #11",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/b2amk8411.glb"
+},
+{
+    "name":"B-2A Mk.84 #12",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/b2amk8412.glb"
+},
+{
+    "name":"B-2A Mk.84 #13",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/b2amk8413.glb"
+},
+{
+    "name":"B-2A Mk.84 #14",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/b2amk8414.glb"
+},
+{
+    "name":"B-2A Mk.84 #15",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/b2amk8415.glb"
+},
+{
+    "name":"B-2A Mk.84 #16",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/b2amk8416.glb"
+},
+{
+    "name":"B-2A AGM-158 #1",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/b2aagm1581.glb"
+},
+{
+    "name":"B-2A AGM-158 #2",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/b2aagm1582.glb"
+},
+{
+    "name":"B-2A AGM-158 #3",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/b2aagm1583.glb"
+},
+{
+    "name":"B-2A AGM-158 #4",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/b2aagm1584.glb"
+},
+{
+    "name":"B-2A AGM-158 #5",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/b2aagm1585.glb"
+},
+{
+    "name":"B-2A AGM-158 #6",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/b2aagm1586.glb"
+},
+{
+    "name":"B-2A AGM-158 #7",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/b2aagm1587.glb"
+},
+{
+    "name":"B-2A AGM-158 #8",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/b2aagm1588.glb"
+},
+{
+    "name":"B-2A AGM-158 #9",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/b2aagm1589.glb"
+},
+{
+    "name":"B-2A AGM-158 #10",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/b2aagm15810.glb"
+},
+{
+    "name":"B-2A AGM-158 #11",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/b2aagm15811.glb"
+},
+{
+    "name":"B-2A AGM-158 #12",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/b2aagm15812.glb"
+},
+{
+    "name":"B-2A AGM-158 #13",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/b2aagm15813.glb"
+},
+{
+    "name":"B-2A AGM-158 #14",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/b2aagm15814.glb"
+},
+{
+    "name":"B-2A AGM-158 #15",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/b2aagm15815.glb"
+},
+{
+    "name":"B-2A AGM-158 #16",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/b2aagm15816.glb"
+},
+{
+    "name":"B-2A GBU-28 #1",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/b2agbu281.glb"
+},
+{
+    "name":"B-2A GBU-28 #2",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/b2agbu282.glb"
+},
+{
+    "name":"B-2A GBU-28 #3",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/b2agbu283.glb"
+},
+{
+    "name":"B-2A GBU-28 #4",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/b2agbu284.glb"
+},
+{
+    "name":"B-2A GBU-28 #5",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/b2agbu285.glb"
+},
+{
+    "name":"B-2A GBU-28 #6",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/b2agbu286.glb"
+},
+{
+    "name":"B-2A GBU-28 #7",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/b2agbu287.glb"
+},
+{
+    "name":"B-2A GBU-28 #8",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/b2agbu288.glb"
 },
 {
     "name":"Airport Gate#4 level 2",
