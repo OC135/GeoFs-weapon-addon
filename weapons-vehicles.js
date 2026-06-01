@@ -2691,7 +2691,7 @@
     "name":"WCRJ-900",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/wcrj9001.glb"
+    "model": "https://OC135.github.io/test6/wcrj9002.glb"
 },
 {
     "name":"WP-8A",
