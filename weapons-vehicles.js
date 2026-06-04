@@ -594,6 +594,12 @@
     "model": "https://OC135.github.io/test6/ffa18e3.glb"
 },
 {
+    "name":"F/A-18F D-704 #1",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f18fd7041.glb"
+},
+{
     "name":"F/A-18F conformal fuel tank",
      "rotation":[0,0,0],
     "position":[0,0,0],
