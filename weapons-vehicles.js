@@ -807,7 +807,7 @@
     "name":"KC-135R all off",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6kc135boff.glb"
+    "model": "https://OC135.github.io/test6/kc135raf1.glb"
 },
 {
     "name":"KC-135R drogue #1,3 on",
