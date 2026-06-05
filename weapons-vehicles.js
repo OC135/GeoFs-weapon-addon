@@ -606,6 +606,12 @@
     "model": "https://OC135.github.io/test6/ff18e6.glb"
 },
 {
+    "name":"F/A-18F F/A-18F #1",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f18ff18f1.glb"
+},
+{
     "name":"E-3,E-767 radome",
      "rotation":[0,0,0],
     "position":[0,0,0],
