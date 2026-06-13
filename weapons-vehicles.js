@@ -46,151 +46,265 @@
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/f16cgbu3123.glb"
 },
-     {
+{
+    "name":"F-16C GBU-12 #1,4",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f16gbu12141.glb"
+},
+{
+    "name":"F-16C GBU-12 #2,3",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f16gbu12231.glb"
+},
+{
+    "name":"F-16C GBU-10 #1,4",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f16gbu1014.glb"
+},
+{
+    "name":"F-16C GBU-10 #2,3",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f16gbu1023.glb"
+},
+{
+    "name":"F-16C AN/AAQ-13",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f16caaq13.glb"
+},
+{
+    "name":"F-16C AN/AAQ-33",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f16caaq33.glb"
+},
+{
     "name":"F-16C fuel tank #1,3",
      "rotation":[0,0,0],
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/f16cf13.glb"
 },
-     {
+{
     "name":"F-16C fuel tank #2",
      "rotation":[0,0,0],
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/f16cf2.glb"
 },
-    {
+{
     "name":"F-15E,F-15J AIM-9 #1,4",
      "rotation":[0,0,0],
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/f15eaim914.glb"
 },
-      {
+{
     "name":"F-15E,F-15J AIM-9 #2,3",
      "rotation":[0,0,0],
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/f15eaim923.glb"
 },
-    {
+{
     "name":"F-15E AIM-9 #5,12",
      "rotation":[0,0,0],
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/f15eaim9512.glb"
 },
-      {
+{
     "name":"F-15E AIM-9 #6,11",
      "rotation":[0,0,0],
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/f15eaim9611.glb"
 },
-      {
+{
     "name":"F-15E AIM-9 #7,10",
      "rotation":[0,0,0],
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/f15eaim9710.glb"
 },
-      {
+{
     "name":"F-15E AIM-9 #8,9",
      "rotation":[0,0,0],
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/f15eaim989.glb"
 },
-    {
+{
     "name":"F-15E,F-15J AIM-120 #1,4",
      "rotation":[0,0,0],
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/f15eaim12014.glb"
 },
-      {
+{
     "name":"F-15E,F-15J AIM-120 #2,3",
      "rotation":[0,0,0],
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/f15eaim12023.glb"
 },
-    {
+{
     "name":"F-15E AIM-120 #5,12",
      "rotation":[0,0,0],
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/f15eaim120512.glb"
 },
-      {
+{
     "name":"F-15E AIM-120 #6,11",
      "rotation":[0,0,0],
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/f15eaim120611.glb"
 },
-      {
+{
     "name":"F-15E AIM-120 #7,10",
      "rotation":[0,0,0],
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/f15eaim120710.glb"
 },
-      {
+{
     "name":"F-15E AIM-120 #8,9",
      "rotation":[0,0,0],
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/f15eaim12089.glb"
 },
-    {
+{
     "name":"F-15E GBU-31 #1.7",
      "rotation":[0,0,0],
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/f15egbu3117.glb"
 },
-      {
+{
     "name":"F-15E GBU-31 #2,6",
      "rotation":[0,0,0],
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/f15egbu3126.glb"
 },
-    {
+{
     "name":"F-15E GBU-31 #3,5",
      "rotation":[0,0,0],
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/f15egbu3135.glb"
 },
-      {
+{
     "name":"F-15E GBU-31 #4",
      "rotation":[0,0,0],
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/f15egbu314.glb"
 },
-    {
+{
     "name":"F-15E GBU-38 #1.12",
      "rotation":[0,0,0],
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/f15egbu38112.glb"
 },
-      {
+{
     "name":"F-15E GBU-38 #2,11",
      "rotation":[0,0,0],
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/f15egbu38211.glb"
 },
-    {
+{
     "name":"F-15E GBU-38 #3,10",
      "rotation":[0,0,0],
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/f15egbu38310.glb"
 },
-    {
+{
     "name":"F-15E GBU-38 #4.9",
      "rotation":[0,0,0],
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/f15egbu3849.glb"
 },
-      {
+{
     "name":"F-15E GBU-38 #5,8",
      "rotation":[0,0,0],
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/f15egbu3858.glb"
 },
-    {
+{
     "name":"F-15E GBU-38 #6,7",
      "rotation":[0,0,0],
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/f15egbu3867.glb"
 },
-    {
+{
+    "name":"F-15E GBU-12 #1,13",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f15egbu12113.glb"
+},
+{
+    "name":"F-15E GBU-12 #2,12",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f15egbu122121.glb"
+},
+{
+    "name":"F-15E GBU-12 #3,11",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f15egbu12311.glb"
+},
+{
+    "name":"F-15E GBU-12 #4,10",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f15egbu12410.glb"
+},
+{
+    "name":"F-15E GBU-12 #5,9",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f15egbu1259.glb"
+},
+{
+    "name":"F-15E GBU-12 #6,8",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f15egbu1268.glb"
+},
+{
+    "name":"F-15E GBU-12 #7",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f15egbu1271.glb"
+},
+{
+    "name":"F-15E GBU-10 #1,7",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f15egbu1017.glb"
+},
+{
+    "name":"F-15E GBU-10 #2,6",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f15egbu1026.glb"
+},
+{
+    "name":"F-15E GBU-10 #3,5",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f15egbu1035.glb"
+},
+{
+    "name":"F-15E GBU-10 #4",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f15egbu104.glb"
+},
+{
+    "name":"F-15E AN/AAQ-13",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f15eaaq13.glb"
+},
+{
+    "name":"F-15E AN/AAQ-33",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f15eaaq33.glb"
+},
+{
     "name":"F-15E fuel tank #1,3",
      "rotation":[0,0,0],
     "position":[0,0,0],
@@ -642,10 +756,46 @@
     "model": "https://OC135.github.io/test6/f18fgbu1234.glb"
 },
 {
+    "name":"F/A-18F B61 #1",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/fa18fb611.glb"
+},
+{
+    "name":"F/A-18F B61 #2",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/fa18fb612.glb"
+},
+{
+    "name":"F/A-18F B61 #3",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/fa18fb613.glb"
+},
+{
+    "name":"F/A-18F B61 #4",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/fa18fb614.glb"
+},
+{
+    "name":"F/A-18F B61 #5",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/fa18fb615.glb"
+},
+{
     "name":"F/A-18F AN/AAQ-13",
      "rotation":[0,0,0],
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/f18faaq13.glb"
+},
+{
+    "name":"F/A-18F AN/AAQ-33",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f18faaq33.glb"
 },
 {
     "name":"F/A-18F fuel tank #1,5",
@@ -664,12 +814,6 @@
      "rotation":[0,0,0],
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/ffa18e3.glb"
-},
-{
-    "name":"F/A-18F AN/AAQ-33",
-     "rotation":[0,0,0],
-    "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/f18faaq33.glb"
 },
 {
     "name":"F/A-18F D-704 #1",
@@ -1164,6 +1308,162 @@
     "model": "https://OC135.github.io/test6/a10cgbu3161.glb"
 },
 {
+    "name":"A-10C AGM-65 #1,10",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/a10cagm65110.glb"
+},
+{
+    "name":"A-10C AGM-65 #2,9",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/a10cagm6529.glb"
+},
+{
+    "name":"A-10C AGM-65 #3,8",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/a10cagm6538.glb"
+},
+{
+    "name":"A-10C AGM-65 #4,7",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/a10cagm6547.glb"
+},
+{
+    "name":"A-10C AGM-65 #5,6",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/a10cagm6556.glb"
+},
+{
+    "name":"A-10C GBU-38 #1,10",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/a10cgbu381102.glb"
+},
+{
+    "name":"A-10C GBU-38 #2,9",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/a10cgbu38292.glb"
+},
+{
+    "name":"A-10C GBU-38 #3,8",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/a10cgbu38382.glb"
+},
+{
+    "name":"A-10C GBU-38 #4,7",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/a10cgbu38472.glb"
+},
+{
+    "name":"A-10C GBU-38 #5,6",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/a10cgbu38562.glb"
+},
+{
+    "name":"A-10C GBU-12 #1,10",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/a10cgbu121102.glb"
+},
+{
+    "name":"A-10C GBU-12 #2,9",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/a10cgbu12292.glb"
+},
+{
+    "name":"A-10C GBU-12 #3,8",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/a10cgbu12382.glb"
+},
+{
+    "name":"A-10C GBU-12 #4,7",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/a10cgbu12472.glb"
+},
+{
+    "name":"A-10C GBU-12 #5,6",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/a10cgbu12562.glb"
+},
+{
+    "name":"A-10C GBU-12 #1,10",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/a10cgbu12110.glb"
+},
+{
+    "name":"A-10C GBU-12 #2,9",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/a10cgbu1229.glb"
+},
+{
+    "name":"A-10C GBU-12 #3,8",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/a10cgbu1238.glb"
+},
+{
+    "name":"A-10C GBU-12 #4,7",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/a10cgbu12471.glb"
+},
+{
+    "name":"A-10C GBU-12 #5,6",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/a10cgbu12561.glb"
+},
+{
+    "name":"A-10C GBU-10 #1,11",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/a10cgbu10111.glb"
+},
+{
+    "name":"A-10C GBU-10 #2,10",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/a10cgbu10210.glb"
+},
+{
+    "name":"A-10C GBU-10 #3,9",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/a10cgbu1039.glb"
+},
+{
+    "name":"A-10C GBU-10 #4,8",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/a10cgbu10481.glb"
+},
+{
+    "name":"A-10C GBU-10 #5,7",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/a10cgbu10571.glb"
+},
+{
+    "name":"A-10C GBU-10 #6",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/a10cgbu1061.glb"
+},
+{
     "name":"A-10C fuel tank#1,3",
      "rotation":[0,0,0],
     "position":[0,0,0],
@@ -1180,6 +1480,18 @@
      "rotation":[0,0,0],
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/rafaler550110.glb"
+},
+{
+    "name":"A-10C AN/AAQ-13",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/a10caaq13.glb"
+},
+{
+    "name":"A-10C AN/AAQ-33",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/a10caaq33.glb"
 },
 {
     "name":"Rafale R.550 #2,9",
@@ -1560,96 +1872,6 @@
     "model": "https://OC135.github.io/test6/20thf15jf131.glb"
 },
 {
-    "name":"F-16C GBU-12 #1,4",
-     "rotation":[0,0,0],
-    "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/f16gbu12141.glb"
-},
-{
-    "name":"F-16C GBU-12 #2,3",
-     "rotation":[0,0,0],
-    "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/f16gbu12231.glb"
-},
-{
-    "name":"F-15E GBU-12 #1,13",
-     "rotation":[0,0,0],
-    "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/f15egbu12113.glb"
-},
-{
-    "name":"F-15E GBU-12 #2,12",
-     "rotation":[0,0,0],
-    "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/f15egbu122121.glb"
-},
-{
-    "name":"F-15E GBU-12 #3,11",
-     "rotation":[0,0,0],
-    "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/f15egbu12311.glb"
-},
-{
-    "name":"F-15E GBU-12 #4,10",
-     "rotation":[0,0,0],
-    "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/f15egbu12410.glb"
-},
-{
-    "name":"F-15E GBU-12 #5,9",
-     "rotation":[0,0,0],
-    "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/f15egbu1259.glb"
-},
-{
-    "name":"F-15E GBU-12 #6,8",
-     "rotation":[0,0,0],
-    "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/f15egbu1268.glb"
-},
-{
-    "name":"F-15E GBU-12 #7",
-     "rotation":[0,0,0],
-    "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/f15egbu1271.glb"
-},
-{
-    "name":"F-15E AN/AAQ-13",
-     "rotation":[0,0,0],
-    "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/f15eaaq13.glb"
-},
-{
-    "name":"F-15E AN/AAQ-33",
-     "rotation":[0,0,0],
-    "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/f15eaaq33.glb"
-},
-{
-    "name":"F-16C AN/AAQ-13",
-     "rotation":[0,0,0],
-    "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/f16caaq13.glb"
-},
-{
-    "name":"F-16C AN/AAQ-33",
-     "rotation":[0,0,0],
-    "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/f16caaq33.glb"
-},
-{
-    "name":"A-10C AN/AAQ-13",
-     "rotation":[0,0,0],
-    "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/a10caaq13.glb"
-},
-{
-    "name":"A-10C AN/AAQ-33",
-     "rotation":[0,0,0],
-    "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/a10caaq33.glb"
-},
-{
     "name":"Rafale AN/AAQ-13",
      "rotation":[0,0,0],
     "position":[0,0,0],
@@ -1660,108 +1882,6 @@
      "rotation":[0,0,0],
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/rafaleaaq33.glb"
-},
-{
-    "name":"A-10C GBU-12 #1,10",
-     "rotation":[0,0,0],
-    "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/a10cgbu12110.glb"
-},
-{
-    "name":"A-10C GBU-12 #2,9",
-     "rotation":[0,0,0],
-    "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/a10cgbu1229.glb"
-},
-{
-    "name":"A-10C GBU-12 #3,8",
-     "rotation":[0,0,0],
-    "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/a10cgbu1238.glb"
-},
-{
-    "name":"A-10C GBU-12 #4,7",
-     "rotation":[0,0,0],
-    "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/a10cgbu12471.glb"
-},
-{
-    "name":"A-10C GBU-12 #5,6",
-     "rotation":[0,0,0],
-    "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/a10cgbu12561.glb"
-},
-{
-    "name":"F-15E GBU-10 #1,7",
-     "rotation":[0,0,0],
-    "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/f15egbu1017.glb"
-},
-{
-    "name":"F-15E GBU-10 #2,6",
-     "rotation":[0,0,0],
-    "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/f15egbu1026.glb"
-},
-{
-    "name":"F-15E GBU-10 #3,5",
-     "rotation":[0,0,0],
-    "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/f15egbu1035.glb"
-},
-{
-    "name":"F-15E GBU-10 #4",
-     "rotation":[0,0,0],
-    "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/f15egbu104.glb"
-},
-{
-    "name":"F-16C GBU-10 #1,4",
-     "rotation":[0,0,0],
-    "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/f16gbu1014.glb"
-},
-{
-    "name":"F-16C GBU-10 #2,3",
-     "rotation":[0,0,0],
-    "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/f16gbu1023.glb"
-},
-{
-    "name":"A-10C GBU-10 #1,11",
-     "rotation":[0,0,0],
-    "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/a10cgbu10111.glb"
-},
-{
-    "name":"A-10C GBU-10 #2,10",
-     "rotation":[0,0,0],
-    "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/a10cgbu10210.glb"
-},
-{
-    "name":"A-10C GBU-10 #3,9",
-     "rotation":[0,0,0],
-    "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/a10cgbu1039.glb"
-},
-{
-    "name":"A-10C GBU-10 #4,8",
-     "rotation":[0,0,0],
-    "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/a10cgbu10481.glb"
-},
-{
-    "name":"A-10C GBU-10 #5,7",
-     "rotation":[0,0,0],
-    "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/a10cgbu10571.glb"
-},
-{
-    "name":"A-10C GBU-10 #6",
-     "rotation":[0,0,0],
-    "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/a10cgbu1061.glb"
 },
 {
     "name":" ",
@@ -2118,96 +2238,6 @@
     "model": "https://OC135.github.io/test6/f15exaim12078.glb"
 },
 {
-    "name":"A-10C AGM-65 #1,10",
-     "rotation":[0,0,0],
-    "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/a10cagm65110.glb"
-},
-{
-    "name":"A-10C AGM-65 #2,9",
-     "rotation":[0,0,0],
-    "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/a10cagm6529.glb"
-},
-{
-    "name":"A-10C AGM-65 #3,8",
-     "rotation":[0,0,0],
-    "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/a10cagm6538.glb"
-},
-{
-    "name":"A-10C AGM-65 #4,7",
-     "rotation":[0,0,0],
-    "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/a10cagm6547.glb"
-},
-{
-    "name":"A-10C AGM-65 #5,6",
-     "rotation":[0,0,0],
-    "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/a10cagm6556.glb"
-},
-{
-    "name":"A-10C GBU-38 #1,10",
-     "rotation":[0,0,0],
-    "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/a10cgbu381102.glb"
-},
-{
-    "name":"A-10C GBU-38 #2,9",
-     "rotation":[0,0,0],
-    "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/a10cgbu38292.glb"
-},
-{
-    "name":"A-10C GBU-38 #3,8",
-     "rotation":[0,0,0],
-    "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/a10cgbu38382.glb"
-},
-{
-    "name":"A-10C GBU-38 #4,7",
-     "rotation":[0,0,0],
-    "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/a10cgbu38472.glb"
-},
-{
-    "name":"A-10C GBU-38 #5,6",
-     "rotation":[0,0,0],
-    "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/a10cgbu38562.glb"
-},
-{
-    "name":"A-10C GBU-12 #1,10",
-     "rotation":[0,0,0],
-    "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/a10cgbu121102.glb"
-},
-{
-    "name":"A-10C GBU-12 #2,9",
-     "rotation":[0,0,0],
-    "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/a10cgbu12292.glb"
-},
-{
-    "name":"A-10C GBU-12 #3,8",
-     "rotation":[0,0,0],
-    "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/a10cgbu12382.glb"
-},
-{
-    "name":"A-10C GBU-12 #4,7",
-     "rotation":[0,0,0],
-    "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/a10cgbu12472.glb"
-},
-{
-    "name":"A-10C GBU-12 #5,6",
-     "rotation":[0,0,0],
-    "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/a10cgbu12562.glb"
-},
-{
     "name":"VFA-11 fuel tank1 #1,5",
      "rotation":[0,0,0],
     "position":[0,0,0],
@@ -2362,36 +2392,6 @@
      "rotation":[0,0,0],
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/f15eb615.glb"
-},
-{
-    "name":"F/A-18F B61 #1",
-     "rotation":[0,0,0],
-    "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/fa18fb611.glb"
-},
-{
-    "name":"F/A-18F B61 #2",
-     "rotation":[0,0,0],
-    "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/fa18fb612.glb"
-},
-{
-    "name":"F/A-18F B61 #3",
-     "rotation":[0,0,0],
-    "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/fa18fb613.glb"
-},
-{
-    "name":"F/A-18F B61 #4",
-     "rotation":[0,0,0],
-    "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/fa18fb614.glb"
-},
-{
-    "name":"F/A-18F B61 #5",
-     "rotation":[0,0,0],
-    "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/fa18fb615.glb"
 },
 {
     "name":"Miragee2000D R.550 #1,6",
