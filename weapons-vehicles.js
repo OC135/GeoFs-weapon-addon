@@ -71,6 +71,18 @@
     "model": "https://OC135.github.io/test6/f16gbu1023.glb"
 },
 {
+    "name":"F-16C AGM-154 #1,4",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f16cagm15414.glb"
+},
+{
+    "name":"F-16C AGM-154 #2,3",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f16cagm15423.glb"
+},
+{
     "name":"F-16C AN/AAQ-13",
      "rotation":[0,0,0],
     "position":[0,0,0],
@@ -291,6 +303,24 @@
      "rotation":[0,0,0],
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/f15egbu104.glb"
+},
+{
+    "name":"F-15E AGM-154 #1,5",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f15eagm15415.glb"
+},
+{
+    "name":"F-15E AGM-154 #2,4",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f15eagm15424.glb"
+},
+{
+    "name":"F-15E AGM-154 #3",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f15eagm1543.glb"
 },
 {
     "name":"F-15E AN/AAQ-13",
