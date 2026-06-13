@@ -576,6 +576,78 @@
     "model": "https://OC135.github.io/test6/gbu31fa18e3.glb"
 },
 {
+    "name":"F/A-18F GBU-10 #1,5",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f18fgbu1015.glb"
+},
+{
+    "name":"F/A-18F GBU-10 #2,4",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f18fgbu1024.glb"
+},
+{
+    "name":"F/A-18F GBU-10 #3",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f18fgbu103.glb"
+},
+{
+    "name":"F/A-18F AIM-174B #1,4",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/fa18faim174b14.glb"
+},
+{
+    "name":"F/A-18F AIM-174B #2,3",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/fa18faim174b23.glb"
+},
+{
+    "name":"F/A-18F AGM-154 #1,5",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/fa18fagm15415.glb"
+},
+{
+    "name":"F/A-18F AGM-154 #2,4",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/fa18fagm15424.glb"
+},
+{
+    "name":"F/A-18F AGM-154 #3",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/fa18fagm1543.glb"
+},
+{
+    "name":"F/A-18F GBU-12 #1,6",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f18fgbu12161.glb"
+},
+{
+    "name":"F/A-18F GBU-12 #2,5",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f18fgbu1225.glb"
+},
+{
+    "name":"F/A-18F GBU-12 #3,4",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f18fgbu1234.glb"
+},
+{
+    "name":"F/A-18F AN/AAQ-13",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f18faaq13.glb"
+},
+{
     "name":"F/A-18F fuel tank #1,5",
      "rotation":[0,0,0],
     "position":[0,0,0],
@@ -592,6 +664,12 @@
      "rotation":[0,0,0],
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/ffa18e3.glb"
+},
+{
+    "name":"F/A-18F AN/AAQ-33",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f18faaq33.glb"
 },
 {
     "name":"F/A-18F D-704 #1",
@@ -1560,18 +1638,6 @@
     "model": "https://OC135.github.io/test6/f16caaq33.glb"
 },
 {
-    "name":"F/A-18F AN/AAQ-13",
-     "rotation":[0,0,0],
-    "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/f18faaq13.glb"
-},
-{
-    "name":"F/A-18F AN/AAQ-33",
-     "rotation":[0,0,0],
-    "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/f18faaq33.glb"
-},
-{
     "name":"A-10C AN/AAQ-13",
      "rotation":[0,0,0],
     "position":[0,0,0],
@@ -1594,24 +1660,6 @@
      "rotation":[0,0,0],
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/rafaleaaq33.glb"
-},
-{
-    "name":"F/A-18F GBU-12 #1,6",
-     "rotation":[0,0,0],
-    "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/f18fgbu12161.glb"
-},
-{
-    "name":"F/A-18F GBU-12 #2,5",
-     "rotation":[0,0,0],
-    "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/f18fgbu1225.glb"
-},
-{
-    "name":"F/A-18F GBU-12 #3,4",
-     "rotation":[0,0,0],
-    "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/f18fgbu1234.glb"
 },
 {
     "name":"A-10C GBU-12 #1,10",
@@ -1678,24 +1726,6 @@
      "rotation":[0,0,0],
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/f16gbu1023.glb"
-},
-{
-    "name":"F/A-18F GBU-10 #1,5",
-     "rotation":[0,0,0],
-    "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/f18fgbu1015.glb"
-},
-{
-    "name":"F/A-18F GBU-10 #2,4",
-     "rotation":[0,0,0],
-    "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/f18fgbu1024.glb"
-},
-{
-    "name":"F/A-18F GBU-10 #3",
-     "rotation":[0,0,0],
-    "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/f18fgbu103.glb"
 },
 {
     "name":"A-10C GBU-10 #1,11",
