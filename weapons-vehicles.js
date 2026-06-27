@@ -873,7 +873,7 @@
     "name":"E-3,E-767 radome",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/r2.glb"
+    "model": "https://OC135.github.io/test6/e3g1.glb"
 },
 {
     "name":"A-50 radome",
@@ -891,7 +891,7 @@
     "name":"E-8C radome",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/r5.glb"
+    "model": "https://OC135.github.io/test6/e8c3.glb"
 },
 {
     "name":"P-1 engine",
