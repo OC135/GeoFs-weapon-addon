@@ -1083,13 +1083,13 @@
     "name":"KC-135R all off",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/kc135raf1.glb"
+    "model": "https://OC135.github.io/test6/kc135dgoff1.glb"
 },
 {
     "name":"KC-135R drogue #1,3 on",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/kc135b13on.glb"
+    "model": "https://OC135.github.io/test6/kc135dgon1.glb"
 },
 {
     "name":"KC-135R drogue #2 air",
