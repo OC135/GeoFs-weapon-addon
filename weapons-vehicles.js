@@ -170,13 +170,13 @@
     "name":"F-15E AIM-120 #7,10",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/f15eaim120710.glb"
+    "model": "https://OC135.github.io/test6/f15eaim1207101.glb"
 },
 {
     "name":"F-15E AIM-120 #8,9",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/f15eaim12089.glb"
+    "model": "https://OC135.github.io/test6/f15eaim120891.glb"
 },
 {
     "name":"F-15E GBU-31 #1.7",
@@ -194,7 +194,7 @@
     "name":"F-15E GBU-31 #3,5",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/f15egbu3135.glb"
+    "model": "https://OC135.github.io/test6/f15egbu31351.glb"
 },
 {
     "name":"F-15E GBU-31 #4",
@@ -206,19 +206,19 @@
     "name":"F-15E GBU-38 #1.12",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/f15egbu38112.glb"
+    "model": "https://OC135.github.io/test6/f15egbu381121.glb"
 },
 {
     "name":"F-15E GBU-38 #2,11",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/f15egbu38211.glb"
+    "model": "https://OC135.github.io/test6/f15egbu382111.glb"
 },
 {
     "name":"F-15E GBU-38 #3,10",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/f15egbu38310.glb"
+    "model": "https://OC135.github.io/test6/f15egbu383101.glb"
 },
 {
     "name":"F-15E GBU-38 #4.9",
@@ -266,13 +266,13 @@
     "name":"F-15E GBU-12 #5,9",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/f15egbu1259.glb"
+    "model": "https://OC135.github.io/test6/f15egbu12591.glb"
 },
 {
     "name":"F-15E GBU-12 #6,8",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/f15egbu1268.glb"
+    "model": "https://OC135.github.io/test6/f15egbu12681.glb"
 },
 {
     "name":"F-15E GBU-12 #7",
@@ -296,7 +296,7 @@
     "name":"F-15E GBU-10 #3,5",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/f15egbu1035.glb"
+    "model": "https://OC135.github.io/test6/f15egbu10351.glb"
 },
 {
     "name":"F-15E GBU-10 #4",
@@ -314,7 +314,7 @@
     "name":"F-15E AGM-154 #2,4",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/f15eagm15424.glb"
+    "model": "https://OC135.github.io/test6/f15eagm154241.glb"
 },
 {
     "name":"F-15E AGM-154 #3",
