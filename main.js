@@ -19,7 +19,7 @@ function loadJB()
     {
 geofs.aircraft.instance.addParts([{
 "name":"pfd9",
-"model": "https://OC135.github.io/test6/pf15e33.glb",
+"model": "https://OC135.github.io/test6/pf15e46.glb",
 "position": [0,0,0],
 "rotation":[0,0,0]
 }]
@@ -49,7 +49,7 @@ geofs.aircraft.instance.addParts([{
     {
     geofs.aircraft.instance.addParts([{
 "name":"pfd9",
-"model": "https://OC135.github.io/test6/pf18e7.glb",
+"model": "https://OC135.github.io/test6/pf18e8.glb",
 "position": [0,0,0],
 "rotation":[0,0,0]
 }]
@@ -59,7 +59,7 @@ geofs.aircraft.instance.addParts([{
     {
     geofs.aircraft.instance.addParts([{
 "name":"pfd9",
-"model": "https://OC135.github.io/test6/prafale1.glb",
+"model": "https://OC135.github.io/test6/prafale2.glb",
 "position": [0,0,0],
 "rotation":[0,0,0]
 }]
@@ -99,7 +99,7 @@ geofs.aircraft.instance.addParts([{
     {
     geofs.aircraft.instance.addParts([{
 "name":"pfd9",
-"model": "https://OC135.github.io/test6/pf5f3.glb",
+"model": "https://OC135.github.io/test6/pm20d1.glb",
 "position": [0,0,0],
 "rotation":[0,0,0]
 }]
@@ -109,7 +109,7 @@ geofs.aircraft.instance.addParts([{
     {
     geofs.aircraft.instance.addParts([{
 "name":"pfd9",
-"model": "https://OC135.github.io/test6/pf15ex2.glb",
+"model": "https://OC135.github.io/test6/pf5f3.glb",
 "position": [0,0,0],
 "rotation":[0,0,0]
 }]
@@ -119,13 +119,33 @@ geofs.aircraft.instance.addParts([{
     {
     geofs.aircraft.instance.addParts([{
 "name":"pfd9",
-"model": "https://OC135.github.io/test6/pf35b4.glb",
+"model": "https://OC135.github.io/test6/pf15ex2.glb",
 "position": [0,0,0],
 "rotation":[0,0,0]
 }]
 );
     }
       else if(modelOption=="option12")
+    {
+    geofs.aircraft.instance.addParts([{
+"name":"pfd9",
+"model": "https://OC135.github.io/test6/pf35b4.glb",
+"position": [0,0,0],
+"rotation":[0,0,0]
+}]
+);
+    }
+      else if(modelOption=="option13")
+    {
+    geofs.aircraft.instance.addParts([{
+"name":"pfd9",
+"model": "https://OC135.github.io/test6/pb2a1.glb",
+"position": [0,0,0],
+"rotation":[0,0,0]
+}]
+);
+    }
+      else if(modelOption=="option14")
     {
     geofs.aircraft.instance.addParts([{
 "name":"pfd9",
@@ -322,15 +342,17 @@ listdiv.innerHTML = `
  <label><input type="radio" name="option" value="option1"  data-value="1">F-15E pylon</label><br>
   <label><input type="radio" name="option" value="option2"  data-value="2">F-16C pylon</label><br>
   <label><input type="radio" name="option" value="option3"  data-value="3">A-10C pylon</label><br>
-  <label><input type="radio" name="option" value="option4"  data-value="4">FA-18F pylon</label><br>
+  <label><input type="radio" name="option" value="option4"  data-value="4">F/A-18F pylon</label><br>
   <label><input type="radio" name="option" value="option5"  data-value="5">RafaleM pylon</label><br>
   <label><input type="radio" name="option" value="option6"  data-value="6">F-15C pylon</label><br>
   <label><input type="radio" name="option" value="option7"  data-value="7">Su-35 pylon</label><br>
   <label><input type="radio" name="option" value="option8"  data-value="8">Mirage2000-5 pylon</label><br>
-  <label><input type="radio" name="option" value="option9"  data-value="9">F-5F pylon</label><br>
-  <label><input type="radio" name="option" value="option10"  data-value="10">F-15EX pylon</label><br>
-  <label><input type="radio" name="option" value="option11"  data-value="11">F-35B pylon</label><br>
-  <label><input type="radio" name="option" value="option12"  data-value="12">F-2A pylon</label><br>
+  <label><input type="radio" name="option" value="option9"  data-value="9">Mirage2000D/N pylon</label><br>
+  <label><input type="radio" name="option" value="option10"  data-value="10">F-5F pylon</label><br>
+  <label><input type="radio" name="option" value="option11"  data-value="11">F-15EX pylon</label><br>
+  <label><input type="radio" name="option" value="option12"  data-value="12">F-35B pylon</label><br>
+  <label><input type="radio" name="option" value="option13"  data-value="13">B-2A pylon</label><br>
+  <label><input type="radio" name="option" value="option14"  data-value="14">F-2A pylon</label><br>
     <label><input type="radio" name="option" value="option16"  data-value="16">F-15J pylon</label><br>
     <label><input type="radio" name="option" value="option17"  data-value="17">T-4 pylon</label><br>
     <label><input type="radio" name="option" value="option18"  data-value="18">UH-1H pylon</label><br>
