@@ -326,13 +326,13 @@
     "name":"F-15E AN/AAQ-13",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/f15eaaq13.glb"
+    "model": "https://OC135.github.io/test6/f15eaaq131.glb"
 },
 {
     "name":"F-15E AN/AAQ-33",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/f15eaaq33.glb"
+    "model": "https://OC135.github.io/test6/f15eaaq331.glb"
 },
 {
     "name":"F-15E fuel tank #1,3",
