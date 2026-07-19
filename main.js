@@ -372,7 +372,7 @@ listdiv.innerHTML = `
   <label><input type="radio" name="option" value="option11"  data-value="11">F-15EX pylon</label><br>
   <label><input type="radio" name="option" value="option12"  data-value="12">F-35B pylon</label><br>
   <label><input type="radio" name="option" value="option13"  data-value="13">B-2A pylon</label><br>
-  <label><input type="radio" name="option" value="option13"  data-value="14">F-15D pylon</label><br>
+  <label><input type="radio" name="option" value="option14"  data-value="14">F-15D pylon</label><br>
   <label><input type="radio" name="option" value="option15"  data-value="15">F-2A pylon</label><br>
     <label><input type="radio" name="option" value="option16"  data-value="16">F-15J pylon</label><br>
     <label><input type="radio" name="option" value="option17"  data-value="17">T-4 pylon</label><br>
