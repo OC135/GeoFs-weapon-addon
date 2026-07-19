@@ -906,6 +906,18 @@
     "model": "https://OC135.github.io/test6/p128.glb"
 },
 {
+    "name":"RC-135S/W radome",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/rc135sw1.glb"
+},
+{
+    "name":"RC-135U radome",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/rc135u1.glb"
+},
+{
     "name":"UH-60J JASDF",
      "rotation":[0,0,0],
     "position":[0,0,0],
