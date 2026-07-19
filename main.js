@@ -149,6 +149,16 @@ geofs.aircraft.instance.addParts([{
     {
     geofs.aircraft.instance.addParts([{
 "name":"pfd9",
+"model": "https://OC135.github.io/test6/pf15d1.glb",
+"position": [0,0,0],
+"rotation":[0,0,0]
+}]
+);
+    }
+      else if(modelOption=="option15")
+    {
+    geofs.aircraft.instance.addParts([{
+"name":"pfd9",
 "model": "https://OC135.github.io/test6/pf2a2.glb",
 "position": [0,0,0],
 "rotation":[0,0,0]
@@ -210,6 +220,16 @@ geofs.aircraft.instance.addParts([{
     geofs.aircraft.instance.addParts([{
 "name":"pfd9",
 "model": "https://OC135.github.io/test6/pmq9b1.glb",
+"position": [0,0,0],
+"rotation":[0,0,0]
+}]
+);
+    }
+      else if(modelOption=="option22")
+    {
+    geofs.aircraft.instance.addParts([{
+"name":"pfd9",
+"model": "https://OC135.github.io/test6/pf16d1.glb",
 "position": [0,0,0],
 "rotation":[0,0,0]
 }]
@@ -352,13 +372,15 @@ listdiv.innerHTML = `
   <label><input type="radio" name="option" value="option11"  data-value="11">F-15EX pylon</label><br>
   <label><input type="radio" name="option" value="option12"  data-value="12">F-35B pylon</label><br>
   <label><input type="radio" name="option" value="option13"  data-value="13">B-2A pylon</label><br>
-  <label><input type="radio" name="option" value="option14"  data-value="14">F-2A pylon</label><br>
+  <label><input type="radio" name="option" value="option13"  data-value="14">F-15D pylon</label><br>
+  <label><input type="radio" name="option" value="option15"  data-value="15">F-2A pylon</label><br>
     <label><input type="radio" name="option" value="option16"  data-value="16">F-15J pylon</label><br>
     <label><input type="radio" name="option" value="option17"  data-value="17">T-4 pylon</label><br>
     <label><input type="radio" name="option" value="option18"  data-value="18">UH-1H pylon</label><br>
     <label><input type="radio" name="option" value="option19"  data-value="19">AC-182 pylon</label><br>
     <label><input type="radio" name="option" value="option20"  data-value="20">UH-60L pylon</label><br>
     <label><input type="radio" name="option" value="option21"  data-value="21">MQ-9B pylon</label><br>
+    <label><input type="radio" name="option" value="option22"  data-value="22">F-16D pylon</label><br>
   <label for="moveAmount">Move Amount:</label>
 <select id="moveAmount">
  <option value="0.05">0.05</option>
