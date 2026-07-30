@@ -840,6 +840,36 @@
     "model": "https://OC135.github.io/test6/fa18fb615.glb"
 },
 {
+    "name":"F/A-18F AGM-84 #1,4",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/fa18fagm8414.glb"
+},
+{
+    "name":"F/A-18F AGM-84 #2,3",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/fa18fagm8423.glb"
+},
+{
+    "name":"F/A-18F AGM-88 #1,6",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/fa18fagm8816.glb"
+},
+{
+    "name":"F/A-18F AGM-88 #2,5",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/fa18fagm8825.glb"
+},
+{
+    "name":"F/A-18F AGM-88 #3,4",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/fa18fagm8834.glb"
+},
+{
     "name":"F/A-18F AN/AAQ-13",
      "rotation":[0,0,0],
     "position":[0,0,0],
