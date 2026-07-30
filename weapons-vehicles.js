@@ -83,6 +83,30 @@
     "model": "https://OC135.github.io/test6/f16cagm15423.glb"
 },
 {
+    "name":"F-16C AGM-65 #1,4",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f16cagm6514.glb"
+},
+{
+    "name":"F-16C AGM-65 #2,3",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f16cagm6523.glb"
+},
+{
+    "name":"F-16C AGM-88 #1,4",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f16cagm8814.glb"
+},
+{
+    "name":"F-16C AGM-88 #2,3",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f16cagm8823.glb"
+},
+{
     "name":"F-16C AN/AAQ-13",
      "rotation":[0,0,0],
     "position":[0,0,0],
